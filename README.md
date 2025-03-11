@@ -1,1 +1,1 @@
-Site web "Le petit guilde de l'escalde".
+Site web "Le petit guide de l'escalde".
